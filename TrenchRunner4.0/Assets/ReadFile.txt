@@ -1,0 +1,27 @@
+This is a read me file on the project trench runner.
+
+I would like to say that all assets in this project belong to Synty Studios without them this project would have been possible.
+The "Artillary sound effects" was created by myself froms sampling sources and combining them with the help of Omri Dreyer.
+
+for testing i would hightly recommend installing this with the meta app on desktop,
+and have a wired connection, 
+also recommend having a computer that has a supported graphics card which can be found with this link, 
+https://www.meta.com/en-gb/help/quest/articles/headsets-and-accessories/oculus-rift-s/recommended-gpu/.
+
+the tutorial on scene should help with the controller lay out. 
+if not there is a more indepth guide.
+
+controller - place hand on controller,
+	     have middle finger, ring finger and pinky on the bottom of the controller with the middle finger on the bottom trigger also refered to as L2 and R2 triggers,
+	     have the index finger above the bottom trigger on the top trigger also refered to as L1 and R1 triggers,
+	     have the thumb on the controllers joystick.
+
+left controller - Left joystick to move around- move forward and back, left and right,
+		  top trigger (L1) hold to pinch the fingers on the player model,
+		  bottom trigger (L2) hold to pick up interactable objects and release the trigger to drop the object. 
+
+right controller - Right joystick to look around fast - to simulate turning,
+		  top trigger (R1) hold to pinch the fingers on the player model,
+		  bottom trigger (R2) hold to pick up interactable objects and release the trigger to drop the object. 
+
+headset - To look around, its also tied to movement, if you start moving forward and looking forward you will move forward but start looking to the left or right your character will follow to your heads looking direction.

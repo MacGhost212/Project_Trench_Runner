@@ -1,0 +1,13 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/TrenchRunner4.0.unity
+    guid: 996b9dd334bdb8a4c905091256c45fcc
+  m_configObjects:
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 06b3680f8b716b5428fe04c2f5c4a563, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: d5d19924fd8e19c4da024c7dda04e3b7, type: 2}
